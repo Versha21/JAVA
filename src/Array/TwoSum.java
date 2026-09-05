@@ -3,7 +3,7 @@ public class TwoSum {
     public static void main(String[] args) {
         TwoSum ts = new TwoSum();
         int[] arr = {2, 7, 11, 15};
-        int target =15 ;
+        int target =11;
         System.out.println(ts.twosum(arr, target)); // should print true
     }
 

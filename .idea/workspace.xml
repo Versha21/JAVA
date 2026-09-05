@@ -1,4 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="ChangeListManager">
+    <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/stringbasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Foreach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/InputOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MAXvalue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MissingInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Rotatearray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Twopointerorreverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/WaveArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/acsending.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/initialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/problem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/segregation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/CombinationPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/GCB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/PascalTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/PassingArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/maths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/Butterfly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/HollowPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/HollowRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/InvertedPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/InvertedRightAngkeTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/RightAngledTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/SolidPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/SolidRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/SolidSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/TwoTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/abcdPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/abcdePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/hollowDiamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/hollowRightAngled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/solidDiamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/solidRhombus.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3IusPK66QnWeaOStwHF9pRi4I9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/JAVA/src/Main.java&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="" />
+      <created>1788625765401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788625765401</updated>
+    </task>
+    <servers />
+  </component>
 </project>

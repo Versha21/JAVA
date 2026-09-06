@@ -2,82 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/String/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/abcdePattern.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/Butterfly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/Foreach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/HollowPyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/HollowRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/InputOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/InvertedPyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/InvertedRightAngkeTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/MAXvalue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/MissingInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/RightAngledTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/Rotatearray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/SolidPyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/SolidRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/SolidSquare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/TwoTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/Twopointerorreverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/WaveArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/abcdPyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/abcdePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/acsending.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/hollowDiamond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/hollowRightAngled.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/initialization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/problem2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/problem3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/segregation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/solidDiamond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/IdeaProjects/solidRhombus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Foreach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/InputOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MAXvalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MissingInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Rotatearray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Twopointerorreverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/WaveArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/acsending.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/initialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/problem2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/problem3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/segregation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/CombinationPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/GCB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/PascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/PassingArgument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/Swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/maths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method/power.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/Butterfly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/HollowPyramid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/HollowRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/InvertedPyramid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/InvertedRightAngkeTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/RightAngledTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/SolidPyramid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/SolidRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/SolidSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/TwoTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/abcdPyramid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/abcdePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/abcdePattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/hollowDiamond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/hollowRightAngled.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/solidDiamond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/solidRhombus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/stringbasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/stringbasis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/stringbasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/stringbasis.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Versha21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Versha21/JAVA.git",
+    "accountId": "fb66babb-bce8-4e76-8553-b7c7f9604d80"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -105,11 +47,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.fibonacci.executor": "Run",
+    "Application.stringbasic.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/JAVA/src/Main.java",
     "project.structure.last.edited": "Project",
@@ -117,6 +61,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="stringbasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.stringbasic" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.stringbasic" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

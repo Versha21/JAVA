@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/StringFunc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Stringintchar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern/abcdePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/stringbasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/stringbasis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Versha21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Versha21&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Versha21/JAVA.git",
-    "accountId": "fb66babb-bce8-4e76-8553-b7c7f9604d80"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Versha21/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;fb66babb-bce8-4e76-8553-b7c7f9604d80&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/String/basic.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,6 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.II.executor": "Run",
+    "Application.StringFunc1.executor": "Run",
+    "Application.basic.executor": "Run",
     "Application.fibonacci.executor": "Run",
     "Application.stringbasic.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",

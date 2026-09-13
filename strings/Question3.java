@@ -6,6 +6,6 @@ public class Question3 {
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
         System.out.println("You entered: " + input);
-        scanner.close();
+        
     }
 }

@@ -8,7 +8,8 @@ public class Myname {
 
    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
-        printmyname(name);
+        System.out.print("Enter your name : ");
+        String name = sc.nextLine();
+        printmyname("Your name is :"+ name);
     }
 }

@@ -6,7 +6,8 @@ public class basic {
         //String str = "String problem";
         //System.out.println(str);
         //String s = sc.next();
+        System.out.print("Enter your name : ");
         String s = sc.nextLine();
-        System.out.println(s);
+        System.out.print(" your name is : " + s);
     }
 }

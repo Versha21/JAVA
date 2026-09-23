@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arraylist" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

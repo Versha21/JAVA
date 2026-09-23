@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/arraylist/somemore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DArray/OutputInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DArray/declaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2DArray/question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arraylist/collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/arraylist/collection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   "keyToString": {
     "Application.II.executor": "Run",
     "Application.Myname.executor": "Run",
+    "Application.OutputInArray.executor": "Run",
     "Application.Question.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.SB2.executor": "Run",
@@ -57,7 +59,9 @@
     "Application.basic.executor": "Run",
     "Application.collection.executor": "Run",
     "Application.concatenation.executor": "Run",
+    "Application.declaration.executor": "Run",
     "Application.fibonacci.executor": "Run",
+    "Application.question.executor": "Run",
     "Application.reversestring.executor": "Run",
     "Application.stringbasic.executor": "Run",
     "Application.stringbuilder.executor": "Run",

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2DArray/OutputInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2DArray/declaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2DArray/question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/problem2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Application.SB2.executor": "Run",
     "Application.StringFunc1.executor": "Run",
     "Application.Stringintchar.executor": "Run",
+    "Application.TwoSum.executor": "Run",
     "Application.add.executor": "Run",
     "Application.basic.executor": "Run",
     "Application.collection.executor": "Run",

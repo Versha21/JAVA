@@ -14,7 +14,7 @@ public class abcdPyramid {
             }
             for (int j = 1; j<= i-1 ; j++){
                 int a = j;
-                int b = 'A';
+                int b = 'B';
                 int answer = a+b;
                 char finalAnswer = (char)answer;
                 System.out.print(finalAnswer+" ");

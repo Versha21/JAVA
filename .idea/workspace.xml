@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoPointer/intersection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/intersetion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Twopointerorreverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/intersection.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,7 @@
     "Application.StringFunc1.executor": "Run",
     "Application.Stringintchar.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.Twopointerorreverse.executor": "Run",
     "Application.abcdPyramid.executor": "Run",
     "Application.abcdePattern.executor": "Run",
     "Application.add.executor": "Run",

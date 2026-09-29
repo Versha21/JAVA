@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a835fa9d-29a7-4c96-a459-5c02bd942e5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/intersection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern/abcdPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pattern/abcdPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/intersetion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.II.executor": "Run",
+    "Application.Intersection.executor": "Run",
     "Application.Myname.executor": "Run",
     "Application.OutputInArray.executor": "Run",
     "Application.Question.executor": "Run",
@@ -62,12 +65,17 @@
     "Application.concatenation.executor": "Run",
     "Application.declaration.executor": "Run",
     "Application.fibonacci.executor": "Run",
+    "Application.intersection.executor": "Run",
     "Application.question.executor": "Run",
     "Application.reversestring.executor": "Run",
     "Application.stringbasic.executor": "Run",
     "Application.stringbuilder.executor": "Run",
     "Application.substring.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

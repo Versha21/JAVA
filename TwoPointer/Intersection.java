@@ -1,5 +1,5 @@
 import java.util.*;
-class Intersection {
+public class Intersection {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -39,11 +39,9 @@ class Intersection {
                 k++;
                 i++;
                 j++;
-            }
-            else if (nums1[i] < nums2[j]) {
+            } else if (nums1[i] < nums2[j]) {
                 i++;
-            }
-            else {
+            } else {
                 j++;
             }
         }
